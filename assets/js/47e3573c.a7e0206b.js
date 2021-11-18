@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpptmer_document=self.webpackChunkpptmer_document||[]).push([[849],{7983:function(u){u.exports=JSON.parse('{"allTagsPath":"/PPTMER-document/blog/tags","slug":"/PPTMER-document/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/PPTMER-document/blog/tags/docusaurus"}')}}]);

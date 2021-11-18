@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpptmer_document=self.webpackChunkpptmer_document||[]).push([[545],{4919:function(e){e.exports=JSON.parse('{"allTagsPath":"/PPTMER-document/blog/tags","slug":"/PPTMER-document/blog/tags/facebook","name":"facebook","count":1,"permalink":"/PPTMER-document/blog/tags/facebook"}')}}]);
